@@ -1,0 +1,26 @@
+[
+  {
+    "name": "greeting",
+    "start": 5.7,
+    "duration": 3.95,
+    "text": "Hello，大家好！我是 A-SOUL 的嘉然 Diana。"
+  },
+  {
+    "name": "happy",
+    "start": 18.45,
+    "duration": 3.3,
+    "text": "天天开心，每天都可以吃吃吃。"
+  },
+  {
+    "name": "food",
+    "start": 21.85,
+    "duration": 2.6,
+    "text": "做一个满分干饭人。"
+  },
+  {
+    "name": "mua",
+    "start": 31.7,
+    "duration": 2.05,
+    "text": "在看的话，mua 你们一下。"
+  }
+]

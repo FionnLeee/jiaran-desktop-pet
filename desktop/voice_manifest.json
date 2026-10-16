@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "performer": "嘉然今天吃什么",
+  "kind": "official-video-excerpts",
+  "source": "https://www.bilibili.com/video/BV1YT4y1C7qv/",
+  "sourceTitle": "嘉然的网盘",
+  "notes": "来自官方视频的原声短片段，保留原视频背景音乐。未进行声音克隆或合成。详细裁切时间见 audio/clips.json。",
+  "events": {
+    "hello": ["audio/greeting.wav"],
+    "happy": ["audio/happy.wav"],
+    "food": ["audio/food.wav"],
+    "mua": ["audio/mua.wav"],
+    "wave": ["audio/mua.wav", "audio/greeting.wav"],
+    "wake": ["audio/greeting.wav"],
+    "candy": ["audio/food.wav"],
+    "jump": ["audio/happy.wav"],
+    "complete": ["audio/happy.wav"],
+    "working": ["audio/greeting.wav"]
+  }
+}

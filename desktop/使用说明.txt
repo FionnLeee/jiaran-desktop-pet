@@ -1,0 +1,15 @@
+嘉然桌宠 · Windows 桌面版
+
+双击“嘉然桌宠.exe”启动。拖动移动；单击摸摸头；双击跳跃；右键打开互动菜单。
+托盘图标可以找回桌宠、打开互动菜单或退出；双击托盘图标找回桌宠位置。
+
+右键菜单提供 15 / 25 / 45 分钟专注、5 分钟休息、喂嘉心糖、音量与显示设置。
+跟随本地 Codex 任务默认开启，可在“陪伴设置”里关闭。程序只读本机 Codex 会话文件，使用任务生命周期事件切换动画，不需要 API key，不联网、不写回 Codex 配置。
+
+公开版默认不附带原声音频。若自行取得使用授权，可把 greeting.wav、happy.wav、food.wav、mua.wav 放入 audio 文件夹。
+
+设置默认位于当前 Windows 用户的 LocalAppData\JiaranDesktopPet\settings.json。
+自定义安装时，设置存放在 JiaranDesktopPet\app 的父目录；JIARAN_CONFIG_DIR 可覆盖设置目录。
+
+安装、源码编译、自测、卸载和具体隐私说明，请阅读同目录 README.md。
+本项目为爱好者作品，角色与相关素材权利归原权利人；本软件不代表官方。

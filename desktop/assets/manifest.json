@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "frameWidth": 384,
+  "frameHeight": 416,
+  "source": "AI source strips re-extracted at desktop resolution",
+  "actions": {
+    "idle": {"file":"atlas.png","row":0,"count":6,"fps":2.5},
+    "walk-right": {"file":"atlas.png","row":1,"count":8,"fps":8},
+    "walk-left": {"file":"atlas.png","row":2,"count":8,"fps":8},
+    "wave": {"file":"wave-frames.png","row":0,"count":4,"fps":4},
+    "jump": {"file":"atlas.png","row":4,"count":5,"fps":5,"loop":false},
+    "failed": {"file":"atlas.png","row":5,"count":8,"fps":3},
+    "waiting": {"file":"atlas.png","row":6,"count":6,"fps":3},
+    "working": {"file":"atlas.png","row":7,"count":6,"fps":4},
+    "complete": {"file":"atlas.png","row":8,"count":6,"fps":4},
+    "look": {"file":"atlas.png","row":9,"count":16,"fps":1},
+    "candy": {"file":"candy-frames.png","row":0,"count":4,"fps":1,"loop":false},
+    "sleep": {"file":"sleep-frames.png","row":0,"count":4,"fps":1.2}
+  }
+}
